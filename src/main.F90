@@ -21,7 +21,7 @@ open (163, file = "./res/dot_16.dat", status = "replace", action="write")
 open (164, file = "./res/math_16.dat", status = "replace", action="write")
    
 y = 10
-do x = 1, 8
+do x = 1, 7
     y = y*2
     call multi4(y, 41, 42, 43, 44)
     call multi8(y, 81, 82, 83, 84)
