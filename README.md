@@ -1,9 +1,10 @@
 # fortran_zad
-![czasy dla kind = 4](https://github.com/Filtrax/fortran_zad/blob/master/res/wykres4.pdf)
 
-![czasy dla kind = 8](https://github.com/Filtrax/fortran_zad/blob/master/res/wykres8.pdf)
+![](https://github.com/Filtrax/fortran_zad/blob/master/res/wykres4.png )
 
-![czasy dla kind = 16](https://github.com/Filtrax/fortran_zad/blob/master/res/wykres16.pdf)
+![](https://github.com/Filtrax/fortran_zad/blob/master/res/wykres8.png )
+
+![](https://github.com/Filtrax/fortran_zad/blob/master/res/wykres16.png )
 
 Dla kind = 4 i kind = 8 algorytmy 'naive' i 'better' działają z bardzo podobną szybkością.
 Algorytm 'dot' wyraźnie działa szybciej, chociaż różnica maleje przy większych macierzach. 
